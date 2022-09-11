@@ -1,0 +1,1 @@
+insert into customproduct (product_id,product_name,final_amount,quantity,port_number) values(101,'test',2000.00,2,'8000');
